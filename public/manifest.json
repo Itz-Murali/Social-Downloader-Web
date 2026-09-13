@@ -1,0 +1,12 @@
+{
+  "short_name": "Social Downloader",
+  "name": "Social Downloader",
+  "icons": [
+    { "src": "favicon.png", "sizes": "64x64", "type": "image/png" },
+    { "src": "logo.jpg", "sizes": "877x877", "type": "image/jpeg" }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#07080c",
+  "background_color": "#07080c"
+}
