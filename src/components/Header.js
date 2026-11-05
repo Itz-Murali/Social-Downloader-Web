@@ -2,7 +2,7 @@ import React from "react";
 import { Github, Moon, Sun } from "lucide-react";
 
 const REPO = "https://github.com/Itz-Murali/Social-Downloader-Web";
-const LOGO = "https://anya-file-host.vercel.app/nkzvmo9xxg";
+const LOGO = "https://files.catbox.moe/0fquo3.jpg";
 
 export default function Header({ theme, onToggleTheme }) {
   const isLight = theme === "light";
